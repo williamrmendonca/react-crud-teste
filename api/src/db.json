@@ -1,0 +1,175 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Braxton",
+      "lastName": "Stuart",
+      "password": "123456",
+      "email": "usuario1@email.com.br",
+      "isAdmin": false,
+      "active": true
+    },
+    {
+      "id": 4,
+      "name": "Baran",
+      "lastName": "Savage",
+      "isAdmin": false,
+      "email": "usuario4@email.com.br",
+      "password": "123445",
+      "active": false
+    },
+    {
+      "id": 5,
+      "name": "Giulia",
+      "lastName": "Leonard Cortezi",
+      "isAdmin": false,
+      "email": "usuario5@email.com.br",
+      "password": "123445",
+      "active": true
+    },
+    {
+      "id": 15,
+      "name": "Jonas",
+      "lastName": "Vargaski",
+      "password": "123",
+      "email": "jonasvargaski@hotmail.com",
+      "isAdmin": true,
+      "active": true
+    },
+    {
+      "id": 18,
+      "name": "Usuário",
+      "lastName": "Administrador",
+      "password": "123",
+      "email": "admin@admin.com",
+      "isAdmin": true,
+      "active": true
+    },
+    {
+      "id": 19,
+      "name": "Khemkala",
+      "lastName": "Gautam",
+      "password": "123",
+      "email": "female@mai.com",
+      "isAdmin": false,
+      "active": true
+    },
+    {
+      "id": 21,
+      "name": "Nuradilet",
+      "lastName": "Melisov",
+      "password": "123",
+      "email": "male@mai.com",
+      "isAdmin": false,
+      "active": true
+    },
+    {
+      "id": 24,
+      "name": "Bernard",
+      "lastName": "Burtea",
+      "password": "123",
+      "email": "male@mai.com",
+      "isAdmin": false,
+      "active": true
+    },
+    {
+      "id": 25,
+      "name": "Esther",
+      "lastName": "Ortega",
+      "password": "123",
+      "email": "female@mai.com",
+      "isAdmin": false,
+      "active": true
+    },
+    {
+      "id": 26,
+      "name": "Catrinel",
+      "lastName": "Dobrescu",
+      "password": "123",
+      "email": "female@mai.com",
+      "isAdmin": false,
+      "active": true
+    },
+    {
+      "id": 27,
+      "name": "Helge",
+      "lastName": "Nielsen",
+      "password": "123",
+      "email": "male@mai.com",
+      "isAdmin": false,
+      "active": true
+    },
+    {
+      "id": 28,
+      "name": "Manuel",
+      "lastName": "Xavier",
+      "email": "manuel@tecmasternet.com.br",
+      "password": "123456",
+      "isAdmin": false,
+      "active": true
+    },
+    {
+      "id": 29,
+      "name": "William",
+      "lastName": "Mendonça",
+      "password": "123456",
+      "email": "william@tecmasternet.com.br",
+      "isAdmin": true,
+      "active": true
+    },
+    {
+      "name": "teste",
+      "lastName": "tetse",
+      "password": "123",
+      "email": "teste@tecmasternet.com.br",
+      "isAdmin": false,
+      "active": true,
+      "id": 30
+    },
+    {
+      "name": "sdfasdf",
+      "lastName": "asdfasdf",
+      "password": "123456",
+      "email": "dfasd@dsdfasd.com",
+      "isAdmin": false,
+      "active": true,
+      "id": 32
+    },
+    {
+      "name": "fgsdfg",
+      "lastName": "sdfg",
+      "password": "dfasdfa",
+      "email": "fgsdf@fdgsdfg.dsfs",
+      "isAdmin": false,
+      "active": true,
+      "id": 34
+    },
+    {
+      "name": "fdasdga",
+      "lastName": "dsdfa",
+      "password": "2341324",
+      "email": "sdfasd@dsadf.dfs",
+      "isAdmin": false,
+      "active": true,
+      "id": 35
+    },
+    {
+      "name": "zxcvzxc",
+      "lastName": "dssdf",
+      "password": "23123",
+      "email": "asdfas@fdgsdf.fgdsf",
+      "isAdmin": false,
+      "active": true,
+      "id": 36
+    },
+    {
+      "name": "xcbxcvb",
+      "lastName": "zxvxcv",
+      "password": "zxcvzxc",
+      "email": "gfhfghfg@dfasdf.com",
+      "isAdmin": false,
+      "active": true,
+      "id": 37
+    }
+  ]
+}

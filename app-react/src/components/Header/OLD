@@ -1,0 +1,23 @@
+
+
+  return (
+    <Container>
+      <Content>
+        <h3>Gerenciar usuários</h3>
+        <Profile>
+          <img
+            src={`http://api.adorable.io/avatar/${userProfile.name}`}
+            alt="Avatar"
+          />
+          <div>
+            {`${userProfile.name} ${userProfile.lastName}`}
+            {userProfile.isAdmin && <p>Administrador</p>}
+            <button type="button" onClick={handleSignOut}>
+              Sair
+            </button>
+          </div>
+        </Profile>
+      </Content>
+    </Container>
+  );
+}
