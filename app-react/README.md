@@ -25,7 +25,7 @@ $ yarn start
 #### Login Administrador
 
 ```
-email: jonasvargaski@hotmail.com
+email: william@tecmasternet.com.br
 
 senha: 123
 ```

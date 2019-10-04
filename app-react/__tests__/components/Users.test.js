@@ -16,8 +16,8 @@ describe('Users component', () => {
         profile: {
           profile: {
             id: 15,
-            name: 'Jonas',
-            LastName: 'Vargaski',
+            name: 'William',
+            LastName: 'Mendonça',
             isAdmin: true,
             active: true,
           },
